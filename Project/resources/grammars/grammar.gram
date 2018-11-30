@@ -1,0 +1,13 @@
+#JSGF V1.0;
+grammar grammar;
+
+public <syntax1> = 
+	( select branch )
+	( computer science | information | mechanical | civil );
+public <syntax2> = 
+	( select subject )
+	( artificial intelligence | android development | fuzzy logic | programming | machine learning);
+public <syntax3> =
+	( close application | open video);
+public <syntax4> =
+	( play video | pause video | stop video | mute video | mute off );
